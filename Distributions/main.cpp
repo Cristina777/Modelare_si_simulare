@@ -9,7 +9,7 @@
 using namespace std;
 
 
-
+//generate a generator
 int main()
 {
     RandomGenerator r;
